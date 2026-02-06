@@ -27,9 +27,25 @@ This repository contains the official implementation of **k-NLPmeans** and **k-L
 
 2. **Run Experiments**:  
    Open the provided Jupyter notebooks to reproduce the results from the paper.
-
+   
 3. **Process results**:  
    Open the provided Jupyter notebooks process results and get average ACC, NMI, dist.
+   
+## 📜 Citation
+If you use this code or any of the data provided in this repository in your research, please cite the official paper:  
+[arXiv:2502.09667](https://arxiv.org/abs/2502.09667)
+
+For the Stack Exchange dataset, please cite both:
+- Our processed version: [arXiv:2502.09667](https://arxiv.org/abs/2502.09667)
+- Original source: [Internet Archive](https://archive.org/download/stackexchange)
+
+  _(If you'd like the raw dataset described in the paper, contact me, and I can provide it for you —see the paper for details.)_
+---
+
+For any inquiries, refer to the contact details in the paper.
+
+
 
 
 For any inquiries, refer to the contact details in the paper.
+
